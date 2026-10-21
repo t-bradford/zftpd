@@ -55,7 +55,7 @@ SOFTWARE.
  *---------------------------------------------------------------------------*/
 
 /* Server configuration */
-#define HTTP_DEFAULT_PORT 8888
+#define HTTP_DEFAULT_PORT 8812
 #define HTTP_MAX_CONNECTIONS 100
 
 /* Buffer sizes.
